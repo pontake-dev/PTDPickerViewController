@@ -52,7 +52,23 @@ PTDPickerViewController.create().show(viewModel: pickerViewModel) { (selectedInd
     print("selected index \(selectedIndex)")
 }
 ```
+## Installation
 
+### CocoaPods
+
+Add to `Podfile`:
+
+```
+Pod 'PTDPickerViewController'
+```
+
+### Carthage
+
+Add to `Cartfile`:
+
+```
+github "pontake-dev/PTDPickerViewController"
+```
 
 ## License
 
