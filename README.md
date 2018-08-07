@@ -59,7 +59,7 @@ PTDPickerViewController.create().show(viewModel: pickerViewModel) { (selectedInd
 Add to `Podfile`:
 
 ```
-Pod 'PTDPickerViewController'
+pod 'PTDPickerViewController'
 ```
 
 ### Carthage
